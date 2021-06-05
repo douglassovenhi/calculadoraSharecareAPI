@@ -64,7 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Desenvolvedores
 
 API:
-- Author - [Douglas Nunes sovenhi](https://github.com/hyuugafire)
+- Author - [Douglas Nunes Sovenhi](https://github.com/hyuugafire)
 
 NestJS:
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
