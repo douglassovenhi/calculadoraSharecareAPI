@@ -1,3 +1,6 @@
+# calculadoraSharecareAPI
+um projeto para aprender NestJS e Swagger, criando uma API para ser consumida pela calculadoraSharecare
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -36,7 +39,7 @@ $ npm install
 
 ```bash
 # development
-$ npm run start
+$ npm run start / yarn start
 
 # watch mode
 $ npm run start:dev
